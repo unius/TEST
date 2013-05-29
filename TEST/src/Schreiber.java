@@ -8,11 +8,15 @@ public class Schreiber {
 	
 	public void blub()
 	{
-		System.out.println("hoohoho");
+		System.out.println("hooho");
 	}
 	
 	
-	
+	public int multi(int multi1, int multi2)
+	{
+		return multi1 * multi2;
+		
+	}
 	public void blub(String hrhrhr) {
 		// TODO Auto-generated method stub
 		
