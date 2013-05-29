@@ -11,6 +11,10 @@ public class Schreiber {
 		System.out.println("hooho");
 	}
 	
+	public int add(int summand1, int summand2)
+	{
+		return 0;
+	}
 	
 	public int multi(int multi1, int multi2)
 	{
