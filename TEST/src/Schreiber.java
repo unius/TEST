@@ -1,4 +1,3 @@
-
 public class Schreiber {
 
 	/**
@@ -23,6 +22,12 @@ public class Schreiber {
 		
 		System.out.println("hihhi");
 		System.out.println( hrhrhr);
+	}
+	
+	public void divi(int div1, int div2)
+	
+	{
+		return div1, div2;
 	}
 
 }
