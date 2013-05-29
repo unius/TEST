@@ -4,7 +4,10 @@ public class Schreiber {
 	 * @param args
 	 */
 	
-	
+	public void HRUUBA()
+	{
+		System.out.println("brummbrumm");
+	}
 	public void blub()
 	{
 		System.out.println("hooho");
@@ -31,7 +34,7 @@ public class Schreiber {
 	public void divi(int div1, int div2)
 	
 	{
-		return div1, div2;
+		return div1 / div2;
 	}
 
 }
