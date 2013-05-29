@@ -3,8 +3,9 @@ public class Schreiber {
 	/**
 	 * @param args
 	 */
-	
+	String HIHOOHO;
 String HOHOHOHO;
+	String HIHOHOU;
 	public void blub()
 	{
 		System.out.println("hooho");
