@@ -13,7 +13,7 @@ public class Schreiber {
 	
 	public int add(int summand1, int summand2)
 	{
-		return 0;
+		return summand1 + summand2;
 	}
 	
 	public int multi(int multi1, int multi2)
