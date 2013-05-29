@@ -4,7 +4,8 @@ public class Schreiber {
 	 * @param args
 	 */
 	
-	
+	int blub;
+	int blub2;
 	public void blub()
 	{
 		System.out.println("hooho");
