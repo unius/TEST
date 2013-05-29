@@ -29,7 +29,7 @@ String HOHOHOHO;
 		System.out.println( hrhrhr);
 	}
 	
-	public void divi(int div1, int div2)
+	public int divi(int div1, int div2)
 	
 	{
 		return div1 / div2;
