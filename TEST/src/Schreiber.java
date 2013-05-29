@@ -31,7 +31,7 @@ public class Schreiber {
 	public void divi(int div1, int div2)
 	
 	{
-		return div1, div2;
+		return div1 / div2;
 	}
 
 }
